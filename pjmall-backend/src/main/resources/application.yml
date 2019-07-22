@@ -21,6 +21,7 @@ spring:
            auto: true
        aop-proxy-target-class: true                          
          
+<<<<<<< HEAD
 
 security:
          user: 
@@ -30,3 +31,5 @@ security:
                 client:
                        client-id: pjmall
                        client-secret: 1234
+=======
+>>>>>>> refs/remotes/origin/master
